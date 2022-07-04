@@ -24,7 +24,7 @@ For other keybindings and mappings, see `general/maps.vim`
 Just clone this repo and copy all files inside into `~/.config/nvim`<br>
 Or you might wanna use this one line install command.
 ```bash
-pkg install git -y && git clone https://github.com/annzc/nvim.git && cd nvim && bash install.sh
+pkg install git -y && git clone https://github.com/MohdSaadJames/nvim && cd nvim && bash install.sh
 ```
 Just type `nvim` and you'll enter Neovim text editor.
 ### NOTE:
